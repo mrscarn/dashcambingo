@@ -37,5 +37,7 @@ const phrases = [
     "Crossfire",
     "Wearing Wifebeater",
     "Tire Screech",
-    "Knee On The Back"
+    "Knee On The Back",
+    "Tourniquet",
+    "Steal Police Car"
   ];
